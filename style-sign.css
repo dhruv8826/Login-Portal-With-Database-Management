@@ -1,0 +1,73 @@
+/*CSS File For Sign-In webpage*/ 
+#body-color{ 
+	background-color:#6699CC; 
+	background-image: url("how-to-defend-yourself-against-hacking-on-any-device.jpg");
+} 
+.topmost{
+	background-color:black;
+	height:100px;
+	width:auto;
+	margin-top:-10px;
+}
+.botmost{
+	background-color:black;
+	height:100px;
+	width:auto;
+}
+#topright{
+	margin:1px;
+	float:right;
+	color:#FFFFFF;
+	margin-right:10px;
+}
+h1{
+	color:#FFFFFF;
+	font-size:50px;
+	font-style:Italic;
+	text-align: center;
+	margin:1px;
+	/*margin-top:-10px;
+	background-color:black;
+	margin-left: auto;
+    	margin-right: auto;
+    	width: 11em;*/
+}
+#Sign-In{ 
+	margin-top:150px; 
+	margin-bottom:150px; 
+	margin-right:150px; 
+	margin-left:450px; 
+	border:3px solid #a1a1a1; 
+	padding:9px 35px; 
+	background:#FFFFE0; 
+	width:400px; 
+	border-radius:20px; 
+	box-shadow: 7px 7px 6px; 
+} 	
+#button{ 
+	border-radius:10px; 
+	width:100px; 
+	height:40px; 
+	background:#0000FF; 
+	display: inline-block; 
+	font-size:15px 
+}
+#button:hover{
+	width:105px;
+	height:45px;
+	font-size:17px;
+}
+.signup{
+	font-size:13px; 
+}
+.signupb:hover{
+	font-size:15px;
+}
+#social-icons{
+	display: inline-block;
+	float: right;
+	margin:1px;
+}
+b:hover{
+	font-size:130px; 
+}
